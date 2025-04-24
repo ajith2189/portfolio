@@ -13,6 +13,7 @@
     const emailError = document.getElementById("emailError");
     const subjectError = document.getElementById("subjectError");
     const messageError = document.getElementById("messageError");
+    //this is a comment
 
     // Reset errors
     nameError.innerText = "";
